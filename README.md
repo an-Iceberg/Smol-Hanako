@@ -1,4 +1,8 @@
+![Banner](gifs/banner.gif)
+
 ## 👋 Hey there! I’m @Smol-Hanako 🎮 🚀
+
+<img src="gifs/pfp.gif" style="float: right; padding: 10px; border: 1px solid red; border-radius: 10px;">
 
 🔍 Here's what you should know about me:
 
@@ -14,3 +18,5 @@
 🌟 Let's connect and innovate together! 💻
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5X8604)
+
+![Banner bottom](gifs/footer_banner.gif)
