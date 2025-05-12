@@ -2,7 +2,7 @@
 
 ## 👋 Hey there! I’m @Smol-Hanako 🎮 🚀
 
-<img src="gifs/pfp.gif" style="float: right; padding: 10px; border: 1px solid red; border-radius: 10px;">
+<img style="float: right; padding: 10px; border: 1px solid red; border-radius: 10px;" src="gifs/pfp.gif" />
 
 🔍 Here's what you should know about me:
 
