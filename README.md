@@ -2,7 +2,7 @@
 
 ## 👋 Hey there! I’m @Smol-Hanako 🎮 🚀
 
-<img align="right" style="margin-left: 10px;" src="gifs/pfp.gif" />
+<img align="right" src="gifs/pfp.gif" />
 
 🔍 Here's what you should know about me:
 
